@@ -24,3 +24,6 @@ A professional-grade real-time financial analysis dashboard built with **Streaml
 * **Visualization:** Plotly (Express & Graph Objects)
 * **Data Handling:** Pandas, NumPy
 
+
+![overview](assets/image.png)
+
