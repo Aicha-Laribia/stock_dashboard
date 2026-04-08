@@ -2,7 +2,7 @@
 
 A professional-grade real-time financial analysis dashboard built with **Streamlit** and **Yahoo Finance**. This application allows users to track S&P 500 stocks, perform technical analysis, and visualize quarterly financial health.
 
-![overview](assets/image copy.png)
+![overview](assets/imagecopy.png)
 
 
 ## ✨ Features
